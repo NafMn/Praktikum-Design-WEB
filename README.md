@@ -9,7 +9,7 @@ Repo berisi modul pembelajaran desain web
 </b>
 
  <ul>
-        <li><b>Pertemuan 1 </b><a href="https://codepen.io/collection/oEpPma"><button>Klik Aja</button></a></li>
+        <li><b>Pertemuan 1 </b><a href="https://codepen.io/collection/oEpPma_blank"><button>Klik Aja</button></a></li>
         <li><b>Pertemuan 2 & 3 </b><a href="https://codepen.io/collection/PYZdLq"><button>Klik Aja</button></a></li>
         <li><b>Pertemuan 4 </b><a href="https://codepen.io/collection/rxpqvz"><button>Klik Aja</button></a></li>
  </ul>
