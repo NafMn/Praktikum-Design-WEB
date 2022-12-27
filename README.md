@@ -9,15 +9,15 @@ Repo berisi modul pembelajaran desain web
 </b>
 
  <ul>
-        <li><b>Pertemuan 1 </b><a href="https://codepen.io/collection/oEpPma_blank"><button>Klik Aja</button></a></li>
-        <li><b>Pertemuan 2 & 3 </b><a href="https://codepen.io/collection/PYZdLq"><button>Klik Aja</button></a></li>
-        <li><b>Pertemuan 4 </b><a href="https://codepen.io/collection/rxpqvz"><button>Klik Aja</button></a></li>
+        <li><b>Pertemuan 1 : </b><a href="https://codepen.io/collection/oEpPma" target="_blank"><button>Klik Aja</button></a></li>
+        <li><b>Pertemuan 2 & 3 : </b><a href="https://codepen.io/collection/PYZdLq" target="_blank"><button>Klik Aja</button></a></li>
+        <li><b>Pertemuan 4 : </b><a href="https://codepen.io/collection/rxpqvz" target="_blank"><button>Klik Aja</button></a></li>
  </ul>
 
 
  <ul>
-        <li><b>URL Tugas Modul 1 </b><a href="https://github.com/NafMn/bocchi_the_rock_html_only"><button>Klik Aja</button></a></li>
-        <li><b>URL Tugas Modul 2 & 3 </b><a href="https://github.com/NafMn/Bocchi-the-rock-x-Bootstrap"><button>Klik Aja</button></a></li>
+        <li><b>URL Tugas Modul 1 </b><a href="https://github.com/NafMn/bocchi_the_rock_html_only" target="_blank"><button>Klik Aja</button></a></li>
+        <li><b>URL Tugas Modul 2 & 3 </b><a href="https://github.com/NafMn/Bocchi-the-rock-x-Bootstrap" target="_blank"><button>Klik Aja</button></a></li>
         <li><b>URL Tugas Modul 4 </b><a href="#"><button>Klik Aja</button></a></li>
  </ul>
 
