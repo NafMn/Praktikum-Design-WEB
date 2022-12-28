@@ -18,7 +18,7 @@ Repo berisi modul pembelajaran desain web
 <br>
 
 - Tugas Pertemuan 1   : [Klik Aja](https://github.com/NafMn/bocchi_the_rock_html_only)
-- Tugas Pertemuan 2&3 : [Klik Aja](https://github.com/NafMn/Bocchi-the-rock-x-Bootstra)
+- Tugas Pertemuan 2&3 : [Klik Aja](https://github.com/NafMn/Bocchi-the-rock-x-Bootstrap)
 - Tugas Pertemuan 4   : [Klik Aja]()
 
  
