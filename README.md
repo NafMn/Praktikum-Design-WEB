@@ -7,26 +7,22 @@ Repo berisi modul pembelajaran desain web
     Teknik Informatika B<br>
     Universitas Islam Balitar<br>
 </b>
-<br><br><br>
+<br><br>
 
- <ul>
-        <li><b>Pertemuan 1 : </b><a href="https://codepen.io/collection/oEpPma" target="_blank"><button>Klik Aja</button></a></li>
-        <li><b>Pertemuan 2 & 3 : </b><a href="https://codepen.io/collection/PYZdLq" target="_blank"><button>Klik Aja</button></a></li>
-        <li><b>Pertemuan 4 : </b><a href="https://codepen.io/collection/rxpqvz" target="_blank"><button>Klik Aja</button></a></li>
- </ul>
-
-
- <ul>
-        <li><b>URL Tugas Modul 1 </b><a href="https://github.com/NafMn/bocchi_the_rock_html_only" target="_blank"><button>Klik Aja</button></a></li>
-        <li><b>URL Tugas Modul 2 & 3 </b><a href="https://github.com/NafMn/Bocchi-the-rock-x-Bootstrap" target="_blank"><button>Klik Aja</button></a></li>
-        <li><b>URL Tugas Modul 4 </b><a href="#"><button>Klik Aja</button></a></li>
- </ul>
- 
  ## 🔗 Live Preview Tugas
 
-- Pertemuan 1 : [Klik Aja](https://codepen.io/collection/oEpPma)
+- Pertemuan 1   : [Klik Aja](https://codepen.io/collection/oEpPma)
 - Pertemuan 2&3 : [Klik Aja](https://codepen.io/collection/PYZdLq)
-- Pertemuan 4 : [Klik Aja](https://codepen.io/collection/rxpqvz)
+- Pertemuan 4   : [Klik Aja](https://codepen.io/collection/rxpqvz)
+
+<br>
+
+- Tugas Pertemuan 1   : [Klik Aja](https://github.com/NafMn/bocchi_the_rock_html_only)
+- Tugas Pertemuan 2&3 : [Klik Aja](https://github.com/NafMn/Bocchi-the-rock-x-Bootstra)
+- Tugas Pertemuan 4   : [Klik Aja]()
+
+ 
+
  
  
 
