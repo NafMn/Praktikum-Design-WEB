@@ -7,12 +7,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bocchi The Rock</title>
 </head>
-<frameset rows="30%,70%">
-    <frame src="header.html"></frame>
+
+<frameset rows="34%,66%">
+    <frame frameborder="0" style="overflow:scroll; width: 100%" src="header.html" marginheight="1" marginwidth="1"
+        id="banner-bocchi-the-rock" seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true">
+    </frame>
     <frameset cols="13%,67%,20%">
         <frame src="menu.html"></frame>
-        <frame src="web1.html"></frame>
-        <frame src="isi.html" name="isi"></frame>
+        <frame src="web1.html" name="main" seamless="seamless" scrolling="no"></frame>
+        <frame src="isi.html" name="isi" style="overflow:scroll; width: 100%" seamless="seamless" scrolling="no"
+            frameborder="0" allowtransparency="true"></frame>
     </frameset>
 </frameset>
 
