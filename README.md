@@ -21,7 +21,7 @@
 - Tugas Pertemuan 1   : [Klik Aja](https://github.com/NafMn/bocchi_the_rock_html_only)
 - Tugas Pertemuan 2&3 : [Klik Aja](https://github.com/NafMn/Bocchi-the-rock-x-Bootstrap)
 - Tugas Pertemuan 4   : [Klik Aja](https://nafmn.github.io/bocchi-frame-form/)
-- Tugas Pertemuan 4   : [Klik Aja](https://nafmn.github.io/)
+- Tugas Pertemuan 5   : [Klik Aja](https://nafmn.github.io/bocchicssbox/)
 
  nb : semua preview di atas sudah <b>mobile friendly</b>
 
