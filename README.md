@@ -14,12 +14,14 @@
 - Pertemuan 1   : [Klik Aja](https://codepen.io/collection/oEpPma)
 - Pertemuan 2&3 : [Klik Aja](https://codepen.io/collection/PYZdLq)
 - Pertemuan 4   : [Klik Aja](https://codepen.io/collection/rxpqvz)
+- Pertemuan 5   : [Klik Aja](https://codepen.io/collection/ExoJLE)
 
 <br>
 
 - Tugas Pertemuan 1   : [Klik Aja](https://github.com/NafMn/bocchi_the_rock_html_only)
 - Tugas Pertemuan 2&3 : [Klik Aja](https://github.com/NafMn/Bocchi-the-rock-x-Bootstrap)
 - Tugas Pertemuan 4   : [Klik Aja](https://nafmn.github.io/bocchi-frame-form/)
+- Tugas Pertemuan 4   : [Klik Aja](https://nafmn.github.io/)
 
  nb : semua preview di atas sudah <b>mobile friendly</b>
 
