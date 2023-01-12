@@ -1,0 +1,16 @@
+{
+  "name": "pertemuan-5.1",
+  "version": "1.0.0",
+  "description": "Tugas 5.1 | Mohamad Nafis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohamad Nafis",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.4"
+  }
+}
