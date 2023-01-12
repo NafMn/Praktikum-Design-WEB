@@ -23,6 +23,11 @@
 - Tugas Pertemuan 4   : [Klik Aja](https://nafmn.github.io/bocchi-frame-form/)
 - Tugas Pertemuan 5   : [Klik Aja](https://nafmn.github.io/bocchicssbox/)
 
+<br>
+<b>Gunakan Link dibawah ini untuk melihat preview semuanya</b>
+
+- Live Preview All   : [Klik Aja](https://nafmn.github.io/livepreview/)
+
  nb : semua preview di atas sudah <b>mobile friendly</b>
 
  
