@@ -24,7 +24,7 @@
 - Tugas Pertemuan 5   : [Klik Aja](https://nafmn.github.io/bocchicssbox/)
 
 <br>
-<b>Gunakan Link dibawah ini untuk melihat preview semuanya</b>
+<b>Gunakan Link dibawah ini untuk melihat preview 5 part 2 & semuanya</b>
 
 - Live Preview All   : [Klik Aja](https://nafmn.github.io/livepreview/)
 
